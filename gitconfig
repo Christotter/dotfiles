@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = christo@web-ch.net
+	name = Christopher Johnson
